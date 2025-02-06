@@ -1,4 +1,4 @@
-# 🌟 Vue 3 HighCharts Tailwind Boilerplate
+#  Vue Case
 
 ✨ Powered by Modern Technologies
 
